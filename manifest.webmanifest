@@ -1,0 +1,24 @@
+{
+  "name": "M1kE",
+  "short_name": "M1kE",
+  "description": "Professional web pages for Nigerian businesses and creators. Clean, fast, and built to convert visitors into paying clients.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#16A34A",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "/img/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/img/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
