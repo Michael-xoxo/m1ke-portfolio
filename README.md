@@ -1,6 +1,6 @@
 # M1kE Portfolio
 
-Personal portfolio site for M1kE; a web page builder for small Nigerian businesses, creators, and product sellers.
+Personal portfolio site for M1kE; a web page builder for small Businesses, Creators, and Product Sales-People.
 
 ## What It Is
 
